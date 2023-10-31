@@ -68,6 +68,7 @@ const Footer = () => {
       fontSize: "1.3rem",
     },
   };
+  //
   return (
     <Box sx={styles.mainBox}>
       <Box sx={styles.mainContent}>
