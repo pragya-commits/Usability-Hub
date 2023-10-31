@@ -28,8 +28,6 @@ const Herosection = () => {
       paddingRight: "30px",
     },
     heroBtn: {
-      //   width: "150px",
-      //   height: "45px",
       borderRadius: "10px",
       fontWeight: "50px",
       fontSize: "20px",
